@@ -1,0 +1,14 @@
+.text-decorator-none{
+    text-decoration: none;
+}
+.imagem {
+    background-image: url(../../img/blog.png); /*../ para sair da pasta*/
+    background-repeat: no-repeat;
+    width: 100vh;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+.texto{
+    font-weight: bold !important;
+}

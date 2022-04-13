@@ -1,0 +1,14 @@
+.imagem2{
+    background-image: url(https://noticiasdatv.uol.com.br/media/_versions/artigos_2021/casimiro-miguel-sbt-tnt-sports-reproducao-twitch-grande_PEzh2EU_fixed_large.jpg);
+    background-repeat: no-repeat;
+    width: 100vh;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+.texto2{
+    font-weight: bold !important;
+}
+.btnCancelar{
+    margin-right: 20px !important;
+}
